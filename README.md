@@ -15,3 +15,6 @@ font-family: "Fraunces", serif;
     rel="stylesheet"
   />
 </head>
+
+<img width="1894" height="3421" alt="Screenshot_28-9-2026_23520_" src="https://github.com/user-attachments/assets/ea60ece3-c93d-4702-9f34-85671136a4e1" />
+
